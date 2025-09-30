@@ -4,8 +4,11 @@
 **akhilendra1811/akhilendra1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-Please find my linkedin [here](https://www.linkedin.com/in/akhilendra-sabherwal-135488212/)
-I studied Computer Science and Mathematics at the University of Manchester
+Please find my linkedin [here](https://www.linkedin.com/in/akhilendra-sabherwal-135488212/).
+
+I studied Computer Science and Mathematics at the University of Manchester.
+
+
 I am **interested** in the _following_:
 1. This
 2. is
@@ -21,4 +24,6 @@ I am **interested** in the _following_:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+----
+last updated: 2024-09-30
