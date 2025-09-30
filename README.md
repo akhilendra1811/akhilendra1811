@@ -5,7 +5,7 @@
 
 
 Please find my linkedin [here](https://www.linkedin.com/in/akhilendra-sabherwal-135488212/)
-
+I studied Computer Science and Mathematics at the University of Manchester
 I am **interested** in the _following_:
 1. This
 2. is
