@@ -26,4 +26,4 @@ I am **interested** in the _following_:
 - ⚡ Fun fact: ...
 
 ----
-last updated: 2024-09-30
+last updated: 2025-09-30
