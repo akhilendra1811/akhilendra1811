@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi, I am AKhil 👋
 
 <!--
-**akhilendra1811/akhilendra1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akhilendra1811/akhilendra1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
+Please find my linkedin [here](https://www.linkedin.com/in/akhilendra-sabherwal-135488212/)
+
+I am **interested** in the _following_:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
